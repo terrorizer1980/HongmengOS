@@ -16,4 +16,4 @@ HongmengOS采用微内核、形式化验证、比 垃圾安卓 快 8848%
 
 # Acknowledgement
 
-创意来自[此处](https://www.zhihu.com/question/463566649/answer/1929522948)，我不是答主。
+创意来自[此处](https://github.com/monyhar)，我不是作者。
