@@ -17,3 +17,9 @@ HongmengOS采用微内核、形式化验证、比 垃圾安卓 快 8848%
 # Acknowledgement
 
 创意来自[此处](https://github.com/monyhar)，我不是作者。
+
+# 真正的鸿蒙
+
+https://github.com/fenwii/OpenHarmony
+
+https://github.com/Awesome-HarmonyOS/HarmonyOS
