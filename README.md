@@ -1,4 +1,4 @@
-#鸿蒙操作系统 HongmengOS - 全新自主研发，打破境外势力垄断
+# 鸿蒙操作系统 HongmengOS - 全新自主研发，打破境外势力垄断
 
 这是我们全新自主研发的OS
 
@@ -12,4 +12,8 @@
 
 HongmengOS采用微内核、形式化验证、比 垃圾安卓 快 8848%
 
-不过第 6 点说的不是这个版本，而是 HongmengOS-lite
+不过第 6 点说的不是这个版本，而是 [HongmengOS-lite](https://github.com/HongmengOS/HongmengOS-lite)
+
+# Acknowledgement
+
+创意来自[此处](https://www.zhihu.com/question/463566649/answer/1929522948)，我不是答主。
